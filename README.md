@@ -1,4 +1,6 @@
-I used CycleGAN for my toy project.
+# ToyProject with CycleGAN
+
+This was my trial for toy project with CycleGAN.
 
 The project was inspired by an animation called Pokémon. We selected five types(fire, water, grass, ground, and electric) among lots of types in Pokémon and try to apply such types to people.
 We experimented with CycleGAN as our first model, attracted by the availability of unparalleled image datasets.
