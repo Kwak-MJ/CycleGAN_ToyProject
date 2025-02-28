@@ -12,6 +12,7 @@ However, the results were not good. They reacted sensitively to the overall back
 Therefore, in the first experiment, there was a problem of changing the color of the entire photo, including the person. It was simply the color change.
 
 Brief results are as follows, and you can see it in CycleGAN_result1_2types.zip. 
+https://drive.google.com/file/d/1sv1ONHk8rkgCixXu3YZgpJevpb_kgeWs/view?usp=sharing
 Experiments were conducted only on fire and electric (lighting) because the results were not good.
 
 ![0120_output_a](https://github.com/user-attachments/assets/010759ec-8dc3-466c-8be7-83e3ae356064)
@@ -24,6 +25,7 @@ In the second experiment, we learned with Pokémon pictures. The character has a
 Therefore, it was found that the characteristics inside the Pokémon boundary were reflected only to humans.
 
 The results are shown in the picture below, and you can see more results in CycleGAN_result2_4types.zip.
+https://drive.google.com/file/d/1wY6wKVPaWmTreYhi_0unTtRA4Fnr1tXg/view?usp=sharing
 Experiments were conducted only in four types: water, fire, grass, and electricity.
 
 ![0103_output_a](https://github.com/user-attachments/assets/bed416fa-9a69-4dfa-bfeb-b2b4955d78e0)
