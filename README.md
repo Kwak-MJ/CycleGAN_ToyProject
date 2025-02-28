@@ -16,6 +16,7 @@ Experiments were conducted only on fire and electric (lighting) because the resu
 
 ![0120_output_a](https://github.com/user-attachments/assets/010759ec-8dc3-466c-8be7-83e3ae356064)
 ![0120_input_b](https://github.com/user-attachments/assets/59bb3193-899f-41b4-9ff9-e42ea3e467d2)
+
 ![0324_output_a](https://github.com/user-attachments/assets/454fc64a-9990-42f4-934a-da3f11fb3159)
 ![0324_input_b](https://github.com/user-attachments/assets/fb4c82c3-aa32-4581-a233-475bebd8d49f)
 
